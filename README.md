@@ -1,3 +1,3 @@
-# Basic Java Slenenium Automation Project
-### Basic aotomation projects
+# Maven Automation Project
+### Create basic Maven automation structure
 
