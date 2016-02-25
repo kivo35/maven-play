@@ -5,7 +5,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   <groupId>com.sqa.kv.auto.maven</groupId>
   <artifactId>basic-project</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <description>Maven project structure</description></description>
+  <description>Maven project structure</description>
    	<dependencies>
   		<dependency>
 			<groupId>org.testng</groupId>
